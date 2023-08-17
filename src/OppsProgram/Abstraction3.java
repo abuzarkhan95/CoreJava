@@ -35,3 +35,4 @@ package OppsProgram;
 	System.out.println(s.sofa()+" \n"+ s.bed()+" \n"+ s.chair()+" \n"+ s.plate());
 	}
 }
+0

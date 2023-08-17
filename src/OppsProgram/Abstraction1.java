@@ -16,3 +16,4 @@ public class Abstraction1 {
 	}
 
 }
+0
