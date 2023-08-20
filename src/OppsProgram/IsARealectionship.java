@@ -15,4 +15,3 @@ public class IsARealectionship {
 	}
 
 }
-0

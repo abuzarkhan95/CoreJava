@@ -43,4 +43,3 @@ public static void main(String[] args) {
 	System.out.println(d.getAge()+"\n"+d.getName()+"\n"+d.getId()+"\n"+d.getSchool());
 }
 }
-0

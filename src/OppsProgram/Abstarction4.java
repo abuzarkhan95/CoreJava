@@ -28,4 +28,3 @@ public String dermatologist() {
 	}
 
 }
-0

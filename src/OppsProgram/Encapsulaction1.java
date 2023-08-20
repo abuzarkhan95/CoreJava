@@ -25,4 +25,3 @@ public class Encapsulaction1 {
 	}
 
 }
-0
